@@ -1,0 +1,178 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-02 14:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: attachment.php:6
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: functions.php:17
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:47
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:298
+msgid "Check this post:%0D%0A"
+msgstr ""
+
+#: functions.php:298
+msgid "Send to a friend"
+msgstr ""
+
+#: functions.php:324
+msgid "Read more"
+msgstr ""
+
+#: functions.php:428
+msgid "OG Social Description"
+msgstr ""
+
+#: functions.php:441
+msgid "Brief Description for Social Share"
+msgstr ""
+
+#: header.php:67 header.php:69
+msgid "Search for: "
+msgstr ""
+
+#: entry-footer.php:3
+msgid "About author "
+msgstr ""
+
+#: comments.php:31
+msgid "Trackbacks"
+msgstr ""
+
+#: comments.php:31
+msgid "Trackback"
+msgstr ""
+
+#: nav-below.php:3
+#, php-format
+msgid "%s older"
+msgstr ""
+
+#: nav-below.php:4
+#, php-format
+msgid "newer %s"
+msgstr ""
+
+#: search.php:6
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:44
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:46
+msgid "Sorry, nothing matched your search. Please try again."
+msgstr ""
+
+#: single.php:28
+msgid "Related posts on "
+msgstr ""
+
+#: 404.php:5
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:8
+msgid "Nothing found for the requested page. Try a search instead?"
+msgstr ""
+
+#: category.php:6
+msgid "Category Archives: "
+msgstr ""
+
+#: tag.php:4
+msgid "Tag Archives: "
+msgstr ""
+
+#: archive.php:8
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:9
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:10
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:11
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Font"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/customizer.php:268
+msgid "Post Placeholder Image"
+msgstr ""
+
+#: inc/customizer.php:275 inc/customizer.php:286
+msgid "Footer Text/Credits"
+msgstr ""
+
+#: inc/customizer.php:294
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Paste your Facebook Profile URL here"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid "Write/Paste your Twitter username here"
+msgstr ""
+
+#: inc/customizer.php:311
+msgid "Facebook Profile Link"
+msgstr ""
+
+#: inc/customizer.php:318
+msgid "Twitter Username"
+msgstr ""
+
+#. Name of the theme
+msgid "Zero"
+msgstr ""
+
+#. Author of the theme
+msgid "Sidney Sacchi"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://sidneysacchi.com"
+msgstr ""
